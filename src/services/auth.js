@@ -29,7 +29,7 @@ const createSession = () => {
 export const sendLoginLinkService = async ({ email, name, password }) => {
   // console.log('🚀 ~ sendLoginLinkService ~ email:', email);
   const user = await createUser({ email, name, password });
-  console.log('🚀 ~ sendLoginLinkService ~ user:', user);
+  // console.log('🚀 ~ sendLoginLinkService ~ user:', user);
   // console.log('🚀 ~ sendLoginLinkService ~ user:', user);
 
   if (!user) {
