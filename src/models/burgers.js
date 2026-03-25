@@ -14,4 +14,6 @@ const burgersShema = new Schema(
   },
 );
 
+burgersShema.index({ name: 1 }, { collation: { locale: 'en', strength: 2 } });
+
 export const BurgersCollection = model('burgers', burgersShema);
