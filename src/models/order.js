@@ -14,6 +14,7 @@ const orderSchema = new Schema(
       },
     ],
     totalPrice: { type: Number, required: true },
+    adress: { type: String, required: true },
     status: {
       type: String,
       enum: ['pending', 'paid', 'shipped', 'completed', 'cancelled'],

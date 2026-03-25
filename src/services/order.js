@@ -3,13 +3,7 @@ import { Types } from 'mongoose';
 import { getCartService } from '../services/cart.js';
 import { createUser } from './user.js';
 
-export const createOrder = async ({
-  userId,
-  cart,
-  totalPrice,
-  adress,
-  phone,
-}) => {
+export const createOrder = async ({ userId, cart, totalPrice, adress }) => {
   const normalizeCart = cart.map((position) => {
     return {
       burger: Types.ObjectId.createFromHexString(position.burger),
@@ -22,8 +16,7 @@ export const createOrder = async ({
     userId,
     cart: normalizeCart,
     totalPrice,
-    adress,
-    phone,
+    address,
     status: 'pending',
     createdAt: new Date(),
   });
@@ -41,25 +34,18 @@ export const getAllOrdersService = async (userId) => {
   return orders;
 };
 
-export const addOrderService = async ({
-  user,
-  cart,
-  totalPrice,
-  adress,
-  phone,
-}) => {
+export const addOrderService = async ({ user, cart, totalPrice, address }) => {
   const findUser = await createUser(user);
 
   const userId = findUser._id || findUser.id;
 
-  await getCartService({ cart, userId });
+  await getCartService({ userId });
 
   const createdOrder = await createOrder({
     cart,
     userId,
     totalPrice,
-    adress,
-    phone,
+    address,
   });
 
   const allOrders = await OrderCollection.find({ userId });

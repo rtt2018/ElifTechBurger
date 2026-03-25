@@ -15,6 +15,13 @@ export const createOrderShema = Joi.object({
         'Please enter a valid email with .com, .org or .net domain',
       'any.required': 'Email is required',
     }),
+    phone: Joi.string()
+      .pattern(/^\+?[0-9\s-]{10,20}$/)
+      .required()
+      .messages({
+        'string.pattern.base':
+          'Phone must be starts with + and must contains digits, + or -',
+      }),
   }),
   cart: Joi.array().items(
     Joi.object({
@@ -44,13 +51,6 @@ export const createOrderShema = Joi.object({
     'number.max': 'TotalPrice must be at most {#limit}',
     'any.required': 'TotalPrice is required',
   }),
-  phone: Joi.string()
-    .pattern(/^\+?[0-9\s-]{10,20}$/)
-    .required()
-    .messages({
-      'string.pattern.base':
-        'Phone must be starts with + and must contains digits, + or -',
-    }),
   address: Joi.string().min(5).max(512).required().messages({
     'string.base': 'Address must be a string',
     'string.min': 'Address should have at least {#limit} characters',
