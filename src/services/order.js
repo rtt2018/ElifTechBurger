@@ -3,7 +3,7 @@ import { Types } from 'mongoose';
 import { getCartService } from '../services/cart.js';
 import { createUser } from './user.js';
 
-export const createOrder = async ({ userId, cart, totalPrice, adress }) => {
+export const createOrder = async ({ userId, cart, totalPrice, address }) => {
   const normalizeCart = cart.map((position) => {
     return {
       burger: Types.ObjectId.createFromHexString(position.burger),
