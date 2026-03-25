@@ -17,6 +17,7 @@ export const getBurgersService = async ({
       .skip(skip)
       .limit(limit)
       .sort({ [sortBy]: sortOrder })
+      .collation({ locale: 'en', strength: 2 })
       .exec(),
   ]);
   const totalPages = Math.ceil(total / perPage);
