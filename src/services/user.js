@@ -3,8 +3,6 @@ import bcrypt from 'bcrypt';
 import crypto from 'crypto';
 
 export const createUser = async ({ email, name, password }) => {
-  // console.log('🚀 ~ createUser ~ password:', password);
-  // console.log('🚀 ~ createUser ~ name:', name);
   const usrPassword =
     password || crypto.randomBytes(12).toString('base64').slice(0, 12);
   const encryptedPassword = await bcrypt.hash(usrPassword, 10);
@@ -15,6 +13,7 @@ export const createUser = async ({ email, name, password }) => {
       $setOnInsert: {
         email: email,
         name: name || 'User',
+        phone: '+38000000000',
         password: encryptedPassword,
       },
     },
