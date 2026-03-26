@@ -1,0 +1,1602 @@
+[
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1492"
+    },
+    "name": "Apple Cinnamon Perepichka",
+    "description": "Sweet pie with apple and cinnamon",
+    "price": 65,
+    "image": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1440"
+    },
+    "name": "BBQ Chicken Pizza",
+    "description": "Grilled chicken, BBQ sauce, onions, cheese",
+    "price": 259,
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c145b"
+    },
+    "name": "BBQ Chicken Sub",
+    "description": "Chicken in BBQ sauce, onions, cheese",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1606755456206-b25206cde27e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1434"
+    },
+    "name": "BBQ King Burger",
+    "description": "Beef, BBQ sauce, onion rings, bacon",
+    "price": 169,
+    "image": "https://images.unsplash.com/photo-1553979459-d2229ba7433b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c144c"
+    },
+    "name": "BBQ Rib Pizza",
+    "description": "BBQ ribs, onions, cheese on BBQ base",
+    "price": 289,
+    "image": "https://images.unsplash.com/photo-1548365328-5b8493d4c7f2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1422"
+    },
+    "name": "BBQ Wings",
+    "description": "Fried wings in smoky BBQ sauce",
+    "price": 169,
+    "image": "https://images.unsplash.com/photo-1606755456206-b25206cde27e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c142f"
+    },
+    "name": "Bacon King",
+    "description": "Beef patty, lots of bacon, cheese, sauce",
+    "price": 189,
+    "image": "https://images.unsplash.com/photo-1550317138-10000687a72b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1474"
+    },
+    "name": "Beef Stroganoff",
+    "description": "Beef in creamy sauce with mushrooms",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1604908812172-5c5b4c9c4f8a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c149a"
+    },
+    "name": "Beef Tongue Perepichka",
+    "description": "Sliced tongue with spices in dough",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1627308594171-19a116a8b255?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1412"
+    },
+    "name": "Berry Milkshake",
+    "description": "Creamy shake with mixed berries",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c13ff"
+    },
+    "name": "Big Royal Burger",
+    "description": "Two juicy beef patties, special sauce, lettuce, cheese, pickles, onions on sesame bun",
+    "price": 159,
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1463"
+    },
+    "name": "Borscht with Meat",
+    "description": "Traditional beet soup with beef, vegetables, sour cream",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1604909053193-6b3c3c36f7c2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c147f"
+    },
+    "name": "Buckwheat with Goose",
+    "description": "Buckwheat porridge with goose pieces",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1617196038435-1e7a4f39c5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1447"
+    },
+    "name": "Buffalo Chicken Pizza",
+    "description": "Chicken, buffalo sauce, cheese, ranch drizzle",
+    "price": 269,
+    "image": "https://images.unsplash.com/photo-1601924928376-63a6f9d66f16?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1460"
+    },
+    "name": "Buffalo Chicken Sub",
+    "description": "Spicy buffalo chicken, cheese, ranch",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1606755456206-b25206cde27e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1490"
+    },
+    "name": "Cabbage Perepichka",
+    "description": "Pie with stewed cabbage and carrots",
+    "price": 59,
+    "image": "https://images.unsplash.com/photo-1625943555419-56a2cb596640?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1472"
+    },
+    "name": "Cabbage Salad",
+    "description": "Fresh cabbage with carrots and oil",
+    "price": 59,
+    "image": "https://images.unsplash.com/photo-1627308594171-19a116a8b255?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1444"
+    },
+    "name": "Caesar Salad",
+    "description": "Romaine, chicken, parmesan, dressing",
+    "price": 129,
+    "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c140f"
+    },
+    "name": "Caramel Sundae",
+    "description": "Vanilla ice cream with caramel sauce and whipped cream",
+    "price": 79,
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c148d"
+    },
+    "name": "Cheese & Mushroom Perepichka",
+    "description": "Fried pie with mushrooms and melted cheese",
+    "price": 75,
+    "image": "https://images.unsplash.com/photo-1506086679525-9e5c3f27c5c4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1426"
+    },
+    "name": "Cheese Bites",
+    "description": "Crispy cheese snacks",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1406"
+    },
+    "name": "Cheese Fries",
+    "description": "Fries topped with melted cheese sauce",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1609530127564-bee93ebe1c9e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c142c"
+    },
+    "name": "Cheese Fries",
+    "description": "Fries with melted cheese sauce",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1609530127564-bee93ebe1c9e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1448"
+    },
+    "name": "Cheese Sticks",
+    "description": "Mozzarella sticks with marinara",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1461"
+    },
+    "name": "Chicken & Bacon Ranch Sub",
+    "description": "Chicken, bacon, ranch dressing, veggies",
+    "price": 159,
+    "image": "https://images.unsplash.com/photo-1550317138-10000687a72b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c141d"
+    },
+    "name": "Chicken Bites 12 pcs",
+    "description": "Small crispy chicken pieces",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1416"
+    },
+    "name": "Chicken Burger Classic",
+    "description": "Crispy chicken fillet, lettuce, mayo on bun",
+    "price": 129,
+    "image": "https://images.unsplash.com/photo-1613769049987-b31b641f25b1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1465"
+    },
+    "name": "Chicken Cutlet with Buckwheat",
+    "description": "Breaded chicken cutlet, buckwheat porridge, salad",
+    "price": 129,
+    "image": "https://images.unsplash.com/photo-1604908812172-5c5b4c9c4f8a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c142e"
+    },
+    "name": "Chicken Nuggets 10 pcs",
+    "description": "Crispy chicken nuggets with BBQ sauce",
+    "price": 119,
+    "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1404"
+    },
+    "name": "Chicken Nuggets 9 pcs",
+    "description": "Crispy golden chicken bites served with sweet chili sauce",
+    "price": 119,
+    "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1493"
+    },
+    "name": "Chicken Perepichka",
+    "description": "Fried pie with chicken and onions",
+    "price": 79,
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1421"
+    },
+    "name": "Chicken Salad",
+    "description": "Crispy chicken pieces on fresh greens",
+    "price": 129,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1455"
+    },
+    "name": "Chicken Teriyaki Sub",
+    "description": "Grilled chicken in teriyaki sauce, veggies",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1627308594171-19a116a8b255?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1410"
+    },
+    "name": "Chicken Wings 6 pcs",
+    "description": "Spicy fried chicken wings",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1650939986300-ce9609921fa7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1443"
+    },
+    "name": "Chicken Wings Spicy",
+    "description": "Spicy baked chicken wings",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1606857521015-7f9fcf423740?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1433"
+    },
+    "name": "Chicken Wrap",
+    "description": "Grilled chicken, veggies in tortilla",
+    "price": 119,
+    "image": "https://images.unsplash.com/photo-1627308594171-19a116a8b255?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c144a"
+    },
+    "name": "Chocolate Lava Cake",
+    "description": "Warm cake with molten chocolate center",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c148b"
+    },
+    "name": "Classic Perepichka with Meat",
+    "description": "Fried dough pie filled with minced meat and onions",
+    "price": 69,
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1462"
+    },
+    "name": "Classic Tuna Sub",
+    "description": "Tuna, mayo, onions, lettuce, tomatoes",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c145a"
+    },
+    "name": "Club Sub",
+    "description": "Turkey, ham, bacon, cheese, veggies",
+    "price": 159,
+    "image": "https://images.unsplash.com/photo-1599921841143-8194358ddea0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c145f"
+    },
+    "name": "Cold Cut Combo",
+    "description": "Assorted cold cuts, cheese, veggies",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1599921841143-8194358ddea0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c141c"
+    },
+    "name": "Coleslaw",
+    "description": "Fresh cabbage salad with creamy dressing",
+    "price": 59,
+    "image": "https://images.unsplash.com/photo-1627308594171-19a116a8b255?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1418"
+    },
+    "name": "Colonel's Bucket 12 pcs",
+    "description": "Large bucket of original fried chicken pieces",
+    "price": 399,
+    "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1476"
+    },
+    "name": "Compote",
+    "description": "Traditional fruit drink",
+    "price": 39,
+    "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1425"
+    },
+    "name": "Corn on the Cob",
+    "description": "Sweet buttered corn",
+    "price": 69,
+    "image": "https://images.unsplash.com/photo-1603048297172-c92544798d5a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c149d"
+    },
+    "name": "Cottage Cheese & Raisin Perepichka",
+    "description": "Sweet curd with raisins",
+    "price": 69,
+    "image": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1401"
+    },
+    "name": "Crispy Chicken Deluxe",
+    "description": "Breaded chicken fillet, lettuce, mayo, tomato on toasted bun",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1419"
+    },
+    "name": "Crispy Strips Combo",
+    "description": "Chicken strips, fries, coleslaw",
+    "price": 189,
+    "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1495"
+    },
+    "name": "Curd Perepichka",
+    "description": "Sweet cottage cheese filling in dough",
+    "price": 69,
+    "image": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1468"
+    },
+    "name": "Deruny",
+    "description": "Potato pancakes served with sour cream",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1403"
+    },
+    "name": "Double Beef Royal",
+    "description": "Double beef patties, cheese, bacon, BBQ sauce, onions",
+    "price": 189,
+    "image": "https://images.unsplash.com/photo-1553979459-d2229ba7433b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1428"
+    },
+    "name": "Double Whopper",
+    "description": "Two flame-grilled patties, cheese, bacon, veggies",
+    "price": 199,
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1479"
+    },
+    "name": "Duck Breast",
+    "description": "Grilled duck breast with berry sauce",
+    "price": 219,
+    "image": "https://images.unsplash.com/photo-1603360946369-dc9bb6258143?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c147d"
+    },
+    "name": "Duck Confit",
+    "description": "Slow-cooked duck leg with herbs",
+    "price": 229,
+    "image": "https://images.unsplash.com/photo-1603360946369-dc9bb6258143?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1488"
+    },
+    "name": "Duck Fat Fries",
+    "description": "Fries cooked in duck fat",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1585109643930-6d06991d17f2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1484"
+    },
+    "name": "Duck Pancakes",
+    "description": "Pancakes with duck filling",
+    "price": 119,
+    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1480"
+    },
+    "name": "Duck Salad",
+    "description": "Smoked duck, greens, oranges, dressing",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1498"
+    },
+    "name": "Egg & Green Onion Perepichka",
+    "description": "Boiled egg and green onion filling",
+    "price": 69,
+    "image": "https://images.unsplash.com/photo-1625943555419-56a2cb596640?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1431"
+    },
+    "name": "Fish King",
+    "description": "Crispy fish fillet with tartar sauce",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1611148218950-91e60cdef600?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c140b"
+    },
+    "name": "Fish Royal",
+    "description": "Crispy fish fillet, tartar sauce, lettuce on bun",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1552901695-cfa7432e6bbe?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1441"
+    },
+    "name": "Four Cheese Pizza",
+    "description": "Mozzarella, cheddar, parmesan, blue cheese",
+    "price": 269,
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d174?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1420"
+    },
+    "name": "Fries Large",
+    "description": "Crispy golden fries",
+    "price": 79,
+    "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1442"
+    },
+    "name": "Garlic Bread",
+    "description": "Toasted bread with garlic butter and herbs",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1610611300909-0d177a0a0e27?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c144e"
+    },
+    "name": "Garlic Parmesan Wings",
+    "description": "Wings in garlic parmesan sauce",
+    "price": 159,
+    "image": "https://images.unsplash.com/photo-1606755456206-b25206cde27e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c141f"
+    },
+    "name": "Golden Burger",
+    "description": "Crispy chicken, bacon, cheese, BBQ",
+    "price": 159,
+    "image": "https://images.unsplash.com/photo-1550317138-10000687a72b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1415"
+    },
+    "name": "Golden Twister Wrap",
+    "description": "Crispy chicken, veggies, sauce in soft tortilla",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1627308594171-19a116a8b255?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1489"
+    },
+    "name": "Goose Broth",
+    "description": "Clear goose soup with noodles",
+    "price": 69,
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1478"
+    },
+    "name": "Goose Cutlet",
+    "description": "Minced goose cutlet with mashed potatoes",
+    "price": 169,
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c147e"
+    },
+    "name": "Goose Kebab",
+    "description": "Grilled goose meat skewers with veggies",
+    "price": 189,
+    "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c147c"
+    },
+    "name": "Goose Liver Pate",
+    "description": "Creamy goose liver pate with bread",
+    "price": 129,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1487"
+    },
+    "name": "Goose Pate Sandwich",
+    "description": "Pate on rye bread with pickles",
+    "price": 109,
+    "image": "https://images.unsplash.com/photo-1599921841143-8194358ddea0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1483"
+    },
+    "name": "Goose Sausage",
+    "description": "Homemade goose sausage with mustard",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c147a"
+    },
+    "name": "Goose Soup",
+    "description": "Rich goose broth with vegetables and noodles",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1485"
+    },
+    "name": "Goose Stew",
+    "description": "Stewed goose with vegetables",
+    "price": 179,
+    "image": "https://images.unsplash.com/photo-1603360946369-dc9bb6258143?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1481"
+    },
+    "name": "Goose Wings",
+    "description": "Baked goose wings in garlic sauce",
+    "price": 159,
+    "image": "https://images.unsplash.com/photo-1606857521015-7f9fcf423740?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1424"
+    },
+    "name": "Gravy Boat",
+    "description": "Rich chicken gravy for dipping",
+    "price": 39,
+    "image": "https://images.unsplash.com/photo-1585238342021-78d387f4a707?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c146a"
+    },
+    "name": "Grechka with Goulash",
+    "description": "Buckwheat with beef goulash",
+    "price": 119,
+    "image": "https://images.unsplash.com/photo-1604908812172-5c5b4c9c4f8a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1494"
+    },
+    "name": "Ham & Cheese Perepichka",
+    "description": "Pastry stuffed with ham and melted cheese",
+    "price": 79,
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1459"
+    },
+    "name": "Ham & Cheese Sub",
+    "description": "Ham slices, cheese, lettuce, tomatoes",
+    "price": 129,
+    "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c143e"
+    },
+    "name": "Hawaiian Pizza",
+    "description": "Ham, pineapple, mozzarella on tomato base",
+    "price": 229,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1486"
+    },
+    "name": "Herb Roasted Duck",
+    "description": "Whole roasted duck quarter with herbs",
+    "price": 249,
+    "image": "https://images.unsplash.com/photo-1603360946369-dc9bb6258143?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1471"
+    },
+    "name": "Herring under Fur Coat",
+    "description": "Layered salad with herring, beets, potatoes, mayo",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1467"
+    },
+    "name": "Holubtsi",
+    "description": "Cabbage rolls stuffed with rice and meat in tomato sauce",
+    "price": 109,
+    "image": "https://images.unsplash.com/photo-1604908177268-7c3c6c02ab73?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1408"
+    },
+    "name": "Hot Apple Pie",
+    "description": "Crispy pastry filled with cinnamon apple filling",
+    "price": 59,
+    "image": "https://images.unsplash.com/photo-1652284298749-dbdacad6eed9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1417"
+    },
+    "name": "Hot Wings 8 pcs",
+    "description": "Spicy fried chicken wings",
+    "price": 169,
+    "image": "https://images.unsplash.com/photo-1606857521015-7f9fcf423740?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c144f"
+    },
+    "name": "Italian BMT Sub",
+    "description": "Pepperoni, salami, ham, cheese, veggies, Italian dressing",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1599921841143-8194358ddea0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1432"
+    },
+    "name": "King Fries",
+    "description": "Large crispy fries",
+    "price": 79,
+    "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c143a"
+    },
+    "name": "King Sundae",
+    "description": "Ice cream with chocolate topping",
+    "price": 79,
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c146d"
+    },
+    "name": "Kyiv Cutlet",
+    "description": "Chicken cutlet with butter inside, fries",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1606755456206-b25206cde27e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1405"
+    },
+    "name": "Large French Fries",
+    "description": "Crispy salted potato fries",
+    "price": 79,
+    "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1496"
+    },
+    "name": "Liver Perepichka",
+    "description": "Fried pie with liver and onions",
+    "price": 75,
+    "image": "https://images.unsplash.com/photo-1604908177089-4cbe6f82d5b6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c142a"
+    },
+    "name": "Long Chicken",
+    "description": "Long crispy chicken fillet on sesame bun with lettuce and mayo",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c143d"
+    },
+    "name": "Margherita Pizza",
+    "description": "Tomato sauce, fresh mozzarella, basil",
+    "price": 199,
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d174?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c141b"
+    },
+    "name": "Mashed Potatoes",
+    "description": "Creamy mashed potatoes with gravy",
+    "price": 69,
+    "image": "https://images.unsplash.com/photo-1604908812172-5c5b4c9c4f8a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c140c"
+    },
+    "name": "McWrap Chicken",
+    "description": "Grilled chicken strips, veggies, sauce in tortilla",
+    "price": 119,
+    "image": "https://images.unsplash.com/photo-1606728035253-49e8a23146de?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1491"
+    },
+    "name": "Meat & Rice Perepichka",
+    "description": "Minced meat and rice filling in fried dough",
+    "price": 75,
+    "image": "https://images.unsplash.com/photo-1627308594171-19a116a8b255?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c143c"
+    },
+    "name": "Meat Lovers Pizza",
+    "description": "Pepperoni, ham, sausage, beef, bacon, cheese",
+    "price": 289,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1456"
+    },
+    "name": "Meatball Marinara Sub",
+    "description": "Meatballs in marinara sauce, cheese",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1610611300909-0d177a0a0e27?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1437"
+    },
+    "name": "Milkshake Chocolate",
+    "description": "Creamy chocolate shake",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c149c"
+    },
+    "name": "Mixed Meat Perepichka",
+    "description": "Assorted meat filling in fried pastry",
+    "price": 79,
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c146e"
+    },
+    "name": "Mushroom Soup",
+    "description": "Creamy mushroom soup with herbs",
+    "price": 69,
+    "image": "https://images.unsplash.com/photo-1604909053193-6b3c3c36f7c2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c146b"
+    },
+    "name": "Olivier Salad",
+    "description": "Classic potato salad with meat, veggies, mayo",
+    "price": 79,
+    "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c140d"
+    },
+    "name": "Onion Rings",
+    "description": "Crispy battered onion rings",
+    "price": 69,
+    "image": "https://images.unsplash.com/photo-1625938146369-adc83368bda7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c142d"
+    },
+    "name": "Onion Rings Large",
+    "description": "Crispy battered onion rings",
+    "price": 79,
+    "image": "https://images.unsplash.com/photo-1639024471283-03518883512d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1413"
+    },
+    "name": "Original Chicken Bucket 8 pcs",
+    "description": "Crispy fried chicken with 11 secret herbs and spices",
+    "price": 299,
+    "image": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1458"
+    },
+    "name": "Oven Roasted Chicken Sub",
+    "description": "Roasted chicken, cheese, fresh veggies",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1606755456206-b25206cde27e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1475"
+    },
+    "name": "Pampushky",
+    "description": "Garlic donuts for soup",
+    "price": 49,
+    "image": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c146f"
+    },
+    "name": "Pancakes with Meat",
+    "description": "Thin pancakes stuffed with minced meat",
+    "price": 109,
+    "image": "https://images.unsplash.com/photo-1587735243615-c03f25aaff15?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c143b"
+    },
+    "name": "Pepperoni Supreme Pizza",
+    "description": "Tomato sauce, mozzarella, lots of pepperoni slices",
+    "price": 249,
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c148c"
+    },
+    "name": "Perepichka with Sausage",
+    "description": "Pastry with smoked sausage and cheese",
+    "price": 79,
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c149e"
+    },
+    "name": "Plain Perepichka with Sour Cream",
+    "description": "Classic fried dough served with sour cream",
+    "price": 49,
+    "image": "https://images.unsplash.com/photo-1604908177089-4cbe6f82d5b6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1423"
+    },
+    "name": "Popcorn Chicken",
+    "description": "Bite-sized crispy chicken",
+    "price": 119,
+    "image": "https://images.unsplash.com/photo-1562967916-eb82221dfb92?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1497"
+    },
+    "name": "Poppy Seed Perepichka",
+    "description": "Sweet pie with poppy seed filling",
+    "price": 65,
+    "image": "https://images.unsplash.com/photo-1506086679525-9e5c3f27c5c4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1469"
+    },
+    "name": "Pork Schnitzel",
+    "description": "Breaded pork cutlet with mashed potatoes",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1559847844-5315695dadae?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1470"
+    },
+    "name": "Potato Casserole",
+    "description": "Baked potatoes with cheese and meat",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1604908812172-5c5b4c9c4f8a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c148e"
+    },
+    "name": "Potato Perepichka",
+    "description": "Dough pie stuffed with mashed potatoes and dill",
+    "price": 59,
+    "image": "https://images.unsplash.com/photo-1604908177089-4cbe6f82d5b6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1482"
+    },
+    "name": "Poultry Borscht",
+    "description": "Beet soup with goose meat",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c148a"
+    },
+    "name": "Poultry Kompot",
+    "description": "Fruit drink to pair with meals",
+    "price": 49,
+    "image": "https://images.unsplash.com/photo-1572449043416-55f4685c9bb7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c147b"
+    },
+    "name": "Poultry Platter",
+    "description": "Assorted goose and duck pieces, potatoes",
+    "price": 299,
+    "image": "https://images.unsplash.com/photo-1600891963935-9e0b4cda9c6b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1499"
+    },
+    "name": "Pumpkin Perepichka",
+    "description": "Seasonal pumpkin filling in pastry",
+    "price": 65,
+    "image": "https://images.unsplash.com/photo-1604908177089-4cbe6f82d5b6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1452"
+    },
+    "name": "Roast Beef Sub",
+    "description": "Thinly sliced roast beef, cheese, veggies",
+    "price": 159,
+    "image": "https://images.unsplash.com/photo-1550317138-10000687a72b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1477"
+    },
+    "name": "Roasted Goose Leg",
+    "description": "Juicy roasted goose leg with apples and herbs",
+    "price": 249,
+    "image": "https://images.unsplash.com/photo-1604908554027-5c7a27c9d5e1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Dva Husya"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c140a"
+    },
+    "name": "Royal Bacon Burger",
+    "description": "Beef patty, crispy bacon, cheese, BBQ sauce",
+    "price": 169,
+    "image": "https://images.unsplash.com/photo-1550317138-10000687a72b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1407"
+    },
+    "name": "Royal Breakfast Muffin",
+    "description": "Egg, sausage patty, cheese on English muffin",
+    "price": 109,
+    "image": "https://images.unsplash.com/photo-1608032077018-c9aad9565d29?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1400"
+    },
+    "name": "Royal Cheeseburger",
+    "description": "Beef patty with melted cheddar, pickles, onions, ketchup and mustard",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1599155253646-7989e08c05c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1411"
+    },
+    "name": "Royal Double Cheese",
+    "description": "Two beef patties, double cheese, pickles, onions",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1585238342021-85d4d3a4e6f0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c140e"
+    },
+    "name": "Royal Salad",
+    "description": "Fresh greens, grilled chicken, tomatoes, dressing",
+    "price": 129,
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1436"
+    },
+    "name": "Salad Bowl",
+    "description": "Fresh salad with chicken strips",
+    "price": 129,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1446"
+    },
+    "name": "Seafood Pizza",
+    "description": "Shrimp, mussels, squid, cheese",
+    "price": 319,
+    "image": "https://images.unsplash.com/photo-1594007654729-407eedc4fe24?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1466"
+    },
+    "name": "Solyanka Soup",
+    "description": "Thick meat soup with olives, lemon, sour cream",
+    "price": 79,
+    "image": "https://images.unsplash.com/photo-1604909053193-6b3c3c36f7c2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1414"
+    },
+    "name": "Spicy Chicken Strips 5 pcs",
+    "description": "Spicy breaded chicken tenders with dipping sauce",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1429"
+    },
+    "name": "Spicy Crispy Chicken",
+    "description": "Crispy spicy chicken fillet, lettuce, sauce",
+    "price": 145,
+    "image": "https://images.unsplash.com/photo-1613769049987-b31b641f25b1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1457"
+    },
+    "name": "Spicy Italian Sub",
+    "description": "Pepperoni, salami, spicy sauce, veggies",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1599921841143-8194358ddea0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1402"
+    },
+    "name": "Spicy Royal McChicken",
+    "description": "Spicy breaded chicken, lettuce, spicy mayo on sesame bun",
+    "price": 129,
+    "image": "https://images.unsplash.com/photo-1615297928064-24977384d0da?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c141e"
+    },
+    "name": "Spicy Twister",
+    "description": "Spicy chicken wrap with veggies and sauce",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1626645738538-2f6a0f2e3b3d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1435"
+    },
+    "name": "Spicy Wings",
+    "description": "Spicy chicken wings",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1606755456206-b25206cde27e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c144d"
+    },
+    "name": "Spinach Alfredo Pizza",
+    "description": "Creamy alfredo, spinach, chicken, cheese",
+    "price": 259,
+    "image": "https://images.unsplash.com/photo-1601924928376-63a6f9d66f16?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1454"
+    },
+    "name": "Steak & Cheese Sub",
+    "description": "Grilled steak, melted cheese, peppers, onions",
+    "price": 169,
+    "image": "https://images.unsplash.com/photo-1553979459-d2229ba7433b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c142b"
+    },
+    "name": "Steakhouse Burger",
+    "description": "Beef patty, onion rings, BBQ sauce, bacon, cheese",
+    "price": 179,
+    "image": "https://images.unsplash.com/photo-1553979459-d2229ba7433b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c149b"
+    },
+    "name": "Strawberry Perepichka",
+    "description": "Summer sweet pie with strawberry jam",
+    "price": 65,
+    "image": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1445"
+    },
+    "name": "Stuffed Crust Pepperoni",
+    "description": "Pepperoni pizza with cheese-stuffed crust",
+    "price": 299,
+    "image": "https://images.unsplash.com/photo-1548365328-5b8493d4c7f2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c144b"
+    },
+    "name": "Supreme Pizza",
+    "description": "Pepperoni, sausage, mushrooms, peppers, onions",
+    "price": 279,
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c148f"
+    },
+    "name": "Sweet Cherry Perepichka",
+    "description": "Fried pastry with cherry jam filling",
+    "price": 65,
+    "image": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Kyivska Perepichka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c145e"
+    },
+    "name": "Sweet Onion Chicken Sub",
+    "description": "Chicken, sweet onion sauce, veggies",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1627308594171-19a116a8b255?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1439"
+    },
+    "name": "Tendercrisp Chicken",
+    "description": "Premium crispy chicken burger",
+    "price": 159,
+    "image": "https://images.unsplash.com/photo-1613769049987-b31b641f25b1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1449"
+    },
+    "name": "Tiramisu",
+    "description": "Classic Italian coffee dessert",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1571877227194-6a4f0a8e0e91?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1438"
+    },
+    "name": "Triple Whopper",
+    "description": "Three beef patties, cheese, veggies",
+    "price": 229,
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c145c"
+    },
+    "name": "Tuna Melt",
+    "description": "Tuna salad with melted cheese",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1613769049987-b31b641f25b1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1451"
+    },
+    "name": "Tuna Sub",
+    "description": "Tuna salad with mayo, onions, lettuce, tomatoes",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1450"
+    },
+    "name": "Turkey Breast Sub",
+    "description": "Turkey slices, lettuce, tomatoes, cucumbers, mayo",
+    "price": 129,
+    "image": "https://images.unsplash.com/photo-1606857521015-7f9fcf423740?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1409"
+    },
+    "name": "Vanilla Milkshake",
+    "description": "Creamy vanilla ice cream blended shake",
+    "price": 89,
+    "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "McRoyal"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c146c"
+    },
+    "name": "Varenyky with Cherries",
+    "description": "Sweet dumplings with cherry filling and sour cream",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1473"
+    },
+    "name": "Varenyky with Cottage Cheese",
+    "description": "Dumplings with sweet cottage cheese filling",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1464"
+    },
+    "name": "Varenyky with Potatoes",
+    "description": "Dumplings filled with mashed potatoes, fried onions, sour cream",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1604908177268-7c3c6c02ab73?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "Puzata Hutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1430"
+    },
+    "name": "Veggie Burger",
+    "description": "Plant-based patty with veggies and sauce",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1520072959219-c595dc870360?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1453"
+    },
+    "name": "Veggie Delite",
+    "description": "Fresh veggies, cheese, sauce on bread",
+    "price": 109,
+    "image": "https://images.unsplash.com/photo-1520072959219-c595dc870360?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c145d"
+    },
+    "name": "Veggie Patty Sub",
+    "description": "Veggie patty, cheese, veggies",
+    "price": 139,
+    "image": "https://images.unsplash.com/photo-1520072959219-c595dc870360?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "SubVay"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c143f"
+    },
+    "name": "Veggie Supreme Pizza",
+    "description": "Mushrooms, peppers, onions, olives, tomatoes",
+    "price": 239,
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "PizzaHutka"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c1427"
+    },
+    "name": "Whopper Kingz",
+    "description": "Flame-grilled beef, lettuce, tomatoes, pickles, mayo, ketchup on sesame bun",
+    "price": 159,
+    "image": "https://images.unsplash.com/photo-1553979459-d2229ba7433b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "BurgerKingz"
+  },
+  {
+    "_id": {
+      "$oid": "69c17f5541b990d6508c141a"
+    },
+    "name": "Zinger Burger",
+    "description": "Spicy crispy chicken, lettuce, cheese, mayo",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1615297928064-24977384d0da?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "shopName": "KGolden"
+  }
+]
