@@ -1,4 +1,4 @@
-import { createUser } from '../services/user.js';
+import { findUser } from '../services/user.js';
 import { getAllOrdersService, addOrderService } from '../services/order.js';
 
 export const addOrderController = async (req, res) => {
@@ -15,7 +15,7 @@ export const addOrderController = async (req, res) => {
 };
 
 export const getAllUserOrders = async (req, res) => {
-  const user = await createUser(req.body.user);
+  const user = await findUser(req.query);
 
   const orders = await getAllOrdersService(user._id);
 

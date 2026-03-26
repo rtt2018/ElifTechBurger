@@ -1,6 +1,5 @@
 import { OrderCollection } from '../models/order.js';
 import { Types } from 'mongoose';
-import { getCartService } from '../services/cart.js';
 import { createUser } from './user.js';
 
 export const createOrder = async ({ userId, cart, totalPrice, address }) => {
@@ -38,8 +37,6 @@ export const addOrderService = async ({ user, cart, totalPrice, address }) => {
   const findUser = await createUser(user);
 
   const userId = findUser._id || findUser.id;
-
-  await getCartService({ userId });
 
   const createdOrder = await createOrder({
     cart,
