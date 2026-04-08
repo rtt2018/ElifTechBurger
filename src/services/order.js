@@ -45,7 +45,12 @@ export const addOrderService = async ({ user, cart, totalPrice, address }) => {
     address,
   });
 
-  const allOrders = await OrderCollection.find({ userId });
+  const allOrders = await OrderCollection.find({ userId })
+    .populate({
+      path: 'cart.burger',
+      model: 'burgers',
+    })
+    .exec();
 
   return { user, order: createdOrder, orders: allOrders };
 };
